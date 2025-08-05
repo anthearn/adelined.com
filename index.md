@@ -5,7 +5,7 @@ layout: default
 <div class="grid">
   <div class="quad quad1">
     <div class="logo-container">
-      <img src="{{ '/assets/images/adelined_A1_notext.png' | relative_url }}" alt="Adelined logo" class="logo">
+      <img src="{{ site.baseurl }}/assets/images/adelined_A1_notext.png"  alt="Adelined logo" class="logo">
       <div class="brand-text">Adelined</div>
     </div>
   </div>
